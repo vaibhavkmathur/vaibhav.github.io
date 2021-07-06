@@ -20,14 +20,16 @@
 # Work Experience
 
 ![](/Images/KrannertLogo.png)
-**Krenicki Center for Data Analytics & Machine Learning**
+
+**Krenicki Center for Data Analytics & Machine Learning** | June 2021 - Present
 
 *Data Analyst – Undisclosed Healthcare Client*
 
 - Deployed MySQL to extract schema from datasets and map into client’s EMDS
 
 ![](/Images/nestle-logo-black-and-white.png)
-**Nestlé Pakistan Ltd**
+
+**Nestlé Pakistan Ltd** | August 2016 - January 2021
 
 *Channel Manager – Large Grocers*
 
