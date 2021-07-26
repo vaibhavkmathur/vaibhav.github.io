@@ -1,5 +1,5 @@
 
-!<img src="/Images/Usama Ather.jpg" width="300" height="400">
+<img src="https://github.com/Usama93-PU/USAMA-ATHER/blob/main/Images/Usama%20Ather.jpg" width="300" height="400">
 
 # Education 
 
