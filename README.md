@@ -1,7 +1,7 @@
 
 ![alt text](/Images/Usama Ather.jpg)
 
-# Education
+# Education |
 
 **Purdue University, Krannert School of Management** | December 2021
 
@@ -76,7 +76,7 @@
 
 # Awards
 
-**ECS Hackathon Winner - 2021) |
+**ECS Hackathon Winner - 2021** |
 
 ![](/Images/ECS.jpg)
 
