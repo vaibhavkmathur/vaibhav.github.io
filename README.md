@@ -1,5 +1,5 @@
 
-![alt text](/Images/Usama Ather.jpg)
+<img src="/Images/Usama Ather.jpg" width="300" height="400">
 
 # Education 
 
