@@ -73,6 +73,14 @@
 
 - Used mySQL to develop a generalized DDL & DML for public library database management system
 
+# Awards
+
+**ECS Hackathon Winner - 2021) |
+
+![](/Images/ECS.jpg)
+
+# Certifications
+
 # [Resume](https://purdue0-my.sharepoint.com/personal/uather_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fuather%5Fpurdue%5Fedu%2FDocuments%2FUsama%20Ather%20%2D%20Business%20Analyst%2Epdf&parent=%2Fpersonal%2Fuather%5Fpurdue%5Fedu%2FDocuments&originalPath=aHR0cHM6Ly9wdXJkdWUwLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL3VhdGhlcl9wdXJkdWVfZWR1L0VUV2hlbDVwRVhwS3E3N3lYQ0F3R1NnQndrVFJ4SEoxLVNnWUxsMkhBakthaWc%5FcnRpbWU9U2x5RC1MOG4yVWc)
 
 # [LinkedIn](https://www.linkedin.com/in/usamaather/)
