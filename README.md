@@ -1,7 +1,7 @@
 
 ![alt text](/Images/Usama Ather.jpg)
 
-# Education |
+# Education 
 
 **Purdue University, Krannert School of Management** | December 2021
 
