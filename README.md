@@ -22,7 +22,7 @@
 
 **Undisclosed CPG Fortune 500 Company** | July 2021 - Present 
 
-![](/Images/56-565024_amazon-logo-png-amazon-png-transparent-png.png)
+![](/Images/Amazon logo.png)
 
 *High Performance Computing Data Analyst - Amazon Portfolio*
 
