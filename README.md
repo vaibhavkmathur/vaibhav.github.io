@@ -15,7 +15,7 @@
 
 *Bachelor’s in Management Sciences* 
 
-- Graduated with **Cum Luade*
+- Graduated with **Cum Luade**
 
 
 # Work Experience
