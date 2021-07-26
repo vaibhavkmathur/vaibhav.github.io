@@ -15,8 +15,19 @@
 
 *Bachelor’s in Management Sciences* 
 
+- Graduated with **Cum Luade*
+
 
 # Work Experience
+
+**Undisclosed CPG Fortune 500 Company** | July 2021 - Present 
+
+![](/Images/amazon_PNG27.png)
+
+*High Performance Computing Data Analyst - Amazon Portfolio*
+
+- Deploy machine learning models like LSTM, GRU & Prophet to predict future sales for the CPG client on Amazon.com
+- Use optimization techniques to maximize profitability for consumer bundles on Amazon.com 
 
 **Krenicki Center for Data Analytics & Machine Learning** | June 2021 - Present
 
