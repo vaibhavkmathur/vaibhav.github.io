@@ -58,7 +58,7 @@
 
 # Projects
 
-![](/Images/6810B6B9-A5E6-4268-9C0A669BBD59FE20.png)
+![](/Images/download.png)
 [Lending Club Loan Classification](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
 
 - Using supervised learning methods to predict bad loans
@@ -68,7 +68,7 @@
 
 - Interactive dashboard for Telecom Churn Rate using RStudio’s shinyApp package
 
-![](/Images/6d935806d0526c09d678e7d090bb1e72.jpg)
+![](/Images/1280px-Seattle_Public_Library_logo.svg.png)
 
 [Public Library Database Management System](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
