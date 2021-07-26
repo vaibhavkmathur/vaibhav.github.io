@@ -26,7 +26,7 @@
 
 *High Performance Computing Data Analyst - Amazon Portfolio*
 
-- Deploy machine learning models like LSTM, GRU & Prophet to predict future sales for the CPG client on Amazon.com
+- Deployed machine learning models like LSTM, GRU & Prophet using Purdue's Bell Cluster to predict future sales for the CPG client on Amazon.com
 - Use optimization techniques to maximize profitability for consumer bundles on Amazon.com 
 
 
@@ -37,7 +37,8 @@
 
 *Data Analyst – Undisclosed Healthcare Client*
 
-- Deployed MySQL to extract schema from datasets and map into client’s EMDS
+- Extracted schema from Medicare EMRs to automate reporting for the client using MySQL
+- 2000+ work hours will be saved per year due to automation 
 
 
 
