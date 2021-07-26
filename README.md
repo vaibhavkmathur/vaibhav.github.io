@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/Usama93-PU/USAMA-ATHER/blob/main/Images/KrannertLogo.png)
+![alt text](/Images/Usama Ather.jpg)
 
 # Education
 
