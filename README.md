@@ -82,10 +82,10 @@
 
 
 
-![](/Images/m5af7m.jpg)
-[AI Chess Engine](https://github.com/Usama93-PU/AI-Chess-Engine)
+![](/Images/Diabetic_eye_disease_600.jpg)
+[Diabetes Patient's Survival Analysis](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
 
-- Chess Engine based on MiniMax Algorithm that can play against humans
+- Predicting hazard ratio for diabetes patients' using survival analysis
 
 
 
