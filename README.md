@@ -58,15 +58,15 @@
 
 # Projects
 
-![](/Images/m5af7m.jpg) |
-[AI Chess Engine](https://github.com/Usama93-PU/AI-Chess-Engine)
+![](/Images/m5af7m.jpg) 
+[AI Chess Engine](https://github.com/Usama93-PU/AI-Chess-Engine) |
 
 - Chess Engine based on MiniMax Algorithm that can play against humans
 
 
 
 
-![](/Images/download.png) |
+![](/Images/download.png) 
 [Lending Club Loan Classification](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
 
 - Using supervised learning methods to predict bad loans
@@ -74,7 +74,7 @@
 
 
 
-![](/Images/Telecom-operators-and-reducing-customer-churn.jpg) |
+![](/Images/Telecom-operators-and-reducing-customer-churn.jpg) 
 [R Shiny App - Telecom Churn Rate Analysis](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
 
 - Interactive dashboard for Telecom Churn Rate using RStudio’s shinyApp package
@@ -82,7 +82,7 @@
 
 
 
-![](/Images/Diabetic_eye_disease_600.jpg) |
+![](/Images/Diabetic_eye_disease_600.jpg) 
 [Diabetes Patient's Survival Analysis](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
 
 - Predicting hazard ratio for diabetes patients' using survival analysis
@@ -90,11 +90,15 @@
 
 
 
-![](/Images/1280px-Seattle_Public_Library_logo.svg.png) |
+![](/Images/1280px-Seattle_Public_Library_logo.svg.png) 
 
 [Public Library Database Management System](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
 - Used mySQL to develop a generalized DDL & DML for public library database management system
+
+
+![](/Images/) 
+
 
 
 # Awards
