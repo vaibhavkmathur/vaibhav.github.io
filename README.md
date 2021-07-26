@@ -42,7 +42,7 @@
 
 
 
-**Nestlé Pakistan Ltd** | August 2016 - January 2021
+**Nestlé Pakistan Ltd** |        August 2016 - January 2021
 
 ![](/Images/nestle-logo-black-and-white.png)
 
