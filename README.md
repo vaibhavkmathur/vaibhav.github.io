@@ -73,6 +73,8 @@
 **Lending Club Loan Classification** |
 
 ![](/Images/download.png) 
+
+
 [View Project](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
 
 - Using supervised learning methods to predict bad loans
@@ -82,6 +84,8 @@
 **R Shiny App - Telecom Churn Rate Analysis** |
 
 ![](/Images/Telecom-operators-and-reducing-customer-churn_adobespark.jfif) 
+
+
 [View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
 
 - Interactive dashboard for Telecom Churn Rate using RStudio’s shinyApp package
@@ -91,6 +95,8 @@
 **Diabetes Patient's Survival Analysis** |
 
 ![](/Images/Diabetic_eye_disease_600_adobespark.jfif) 
+
+
 [View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
 
 - Predicting hazard ratio for diabetes patients' using survival analysis
@@ -102,6 +108,7 @@
 
 ![](/Images/1280px-Seattle_Public_Library_logo.svg.png) 
 
+
 [View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
 - Used mySQL to develop a generalized DDL & DML for public library database management system
@@ -112,6 +119,7 @@
 
 ![](/Images/FIFA-Logo_adobespark.png) 
 
+
 [View Project](https://public.tableau.com/app/profile/usama.ather/viz/FIFAWorldCupHistory_16251905207180/Dashboard1)
 
 
@@ -121,7 +129,7 @@
 
 **ECS Hackathon Winner - 2021** |
 
-![](/Images/ECS.jpg)
+![](/Images/ECS_adobespark.jfif)
 
 # Certifications
 
