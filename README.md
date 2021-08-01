@@ -114,7 +114,6 @@
 ![](/Images/1280px-Seattle_Public_Library_logo.svg.png) 
 
 
-
 [View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
 - Used mySQL to develop a generalized DDL & DML for public library database management system
@@ -124,7 +123,6 @@
 **FIFA World Cup History Visualization** |
 
 ![](/Images/FIFA-Logo_adobespark.png) 
-
 [View Project](https://public.tableau.com/app/profile/usama.ather/viz/FIFAWorldCupHistory_16251905207180/Dashboard1)
 
 
