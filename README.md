@@ -1,5 +1,5 @@
 
-![](/Images/Resized_adobespark.jfif)
+![](/Images/circle-cropped.png)
 
 
 # Education 
