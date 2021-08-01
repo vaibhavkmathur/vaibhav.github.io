@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="400" height="400" src="/Images/circle-cropped_adobespark.png">
+ <img src="/Images/circle-cropped_adobespark.png">
 </p> 
 
 
