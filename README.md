@@ -77,34 +77,40 @@
 
 
 
-**R Shiny App - Telecom Churn Rate Analysis**
+**R Shiny App - Telecom Churn Rate Analysis** |
 
-![](/Images/Telecom-operators-and-reducing-customer-churn.jpg) 
+![](/Images/Telecom-operators-and-reducing-customer-churn_adobespark.jfif) 
 [View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
 
 - Interactive dashboard for Telecom Churn Rate using RStudio’s shinyApp package
 
 
 
+**Diabetes Patient's Survival Analysis** |
 
 ![](/Images/Diabetic_eye_disease_600.jpg) 
-[Diabetes Patient's Survival Analysis](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
+[View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
 
 - Predicting hazard ratio for diabetes patients' using survival analysis
 
 
 
 
+**Public Library Database Management System** |
+
 ![](/Images/1280px-Seattle_Public_Library_logo.svg.png) 
 
-[Public Library Database Management System](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
+[View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
 - Used mySQL to develop a generalized DDL & DML for public library database management system
 
 
+
+**Public Library Database Management System** |
+
 ![](/Images/FIFA-Logo.png) 
 
-[FIFA World Cup History Visualization](https://public.tableau.com/app/profile/usama.ather/viz/FIFAWorldCupHistory_16251905207180/Dashboard1)
+[View Project](https://public.tableau.com/app/profile/usama.ather/viz/FIFAWorldCupHistory_16251905207180/Dashboard1)
 
 
 
