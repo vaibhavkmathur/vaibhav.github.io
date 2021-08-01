@@ -75,7 +75,6 @@
 
 ![](/Images/download.png) 
 
-
 [View Project](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
 
 - Using supervised learning methods to predict bad loans
