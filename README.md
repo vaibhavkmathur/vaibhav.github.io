@@ -62,6 +62,8 @@
 **AI Chess Engine** | 
 
 ![](/Images/Chess.jfif) 
+
+
 [View Project](https://github.com/Usama93-PU/AI-Chess-Engine) 
  
 - Chess Engine based on MiniMax Algorithm that can play against humans 
@@ -88,7 +90,7 @@
 
 **Diabetes Patient's Survival Analysis** |
 
-![](/Images/Diabetic_eye_disease_600.jpg) 
+![](/Images/Diabetic_eye_disease_600_adobespark.jfif) 
 [View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
 
 - Predicting hazard ratio for diabetes patients' using survival analysis
@@ -106,7 +108,7 @@
 
 
 
-**Public Library Database Management System** |
+**FIFA World Cup History Visualization** |
 
 ![](/Images/FIFA-Logo.png) 
 
