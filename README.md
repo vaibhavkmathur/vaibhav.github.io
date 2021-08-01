@@ -59,8 +59,10 @@
 
 # Projects
 
+**AI Chess Engine** | 
+
 ![](/Images/m5af7m.jpg) 
-[AI Chess Engine](https://github.com/Usama93-PU/AI-Chess-Engine) 
+<p align="center"> [View Project](https://github.com/Usama93-PU/AI-Chess-Engine) 
 
 - Chess Engine based on MiniMax Algorithm that can play against humans 
 
