@@ -1,5 +1,5 @@
 
-![](/Images/Usama Ather.jpg)
+![](https://github.com/Usama93-PU/USAMA-ATHER/blob/main/Images/circle-cropped%20(1).png)
 
 
 # Education 
