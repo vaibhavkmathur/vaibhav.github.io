@@ -1,5 +1,5 @@
 
-![](/Images/Usama Ather.jpg)
+![](/Images/Resized_adobespark.jfif)
 
 
 # Education 
