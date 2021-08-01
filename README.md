@@ -141,5 +141,5 @@
 
 # LinkedIn
 
-[Visit Here]
+[Visit Here](https://www.linkedin.com/in/usamaather/)
 
