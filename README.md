@@ -1,7 +1,5 @@
 
-<p align="center">
- <img src="/Images/circle-cropped_adobespark.png">
-</p> 
+![](/Images/circle-cropped (1).png)
 
 
 # Education 
