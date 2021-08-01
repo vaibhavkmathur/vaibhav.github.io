@@ -68,17 +68,19 @@
 
 
 
+**Lending Club Loan Classification** |
 
 ![](/Images/download.png) 
-[Lending Club Loan Classification](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
+[View Project](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
 
 - Using supervised learning methods to predict bad loans
 
 
 
+**R Shiny App - Telecom Churn Rate Analysis**
 
 ![](/Images/Telecom-operators-and-reducing-customer-churn.jpg) 
-[R Shiny App - Telecom Churn Rate Analysis](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
+[View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
 
 - Interactive dashboard for Telecom Churn Rate using RStudio’s shinyApp package
 
