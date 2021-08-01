@@ -142,5 +142,5 @@
 
 # LinkedIn
 
-[Visit Here](/Images/174857_adobespark.png)
+[Visit Here]
 
