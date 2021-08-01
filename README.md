@@ -1,5 +1,5 @@
 
-![](/Images/circle-cropped (1).png)
+![](/Images/Usama Ather.jpg)
 
 
 # Education 
