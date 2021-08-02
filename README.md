@@ -7,7 +7,7 @@
 
 *Master of Business Analytics and Information Management* 
 
-- **Skills:** MySQL, R, Tableau, Python, Excel, SAS EM, SimQuick Minitab, PowerBI, MongoDB, PowerPoint
+- **Skills:** MySQL, R, Tableau, Python, Excel, SAS EM, SimQuick, Minitab, PowerBI, MongoDB, PowerPoint
 - **Core Competencies:** Business Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analytics, Prescriptive Analytics, Spreadsheet Modeling, Time Series Analysis, A/B Testing  
 
 
@@ -26,8 +26,9 @@
 
 *High Performance Computing Data Analyst - Amazon Portfolio*
 
-- Deployed machine learning models like LSTM, GRU & Prophet using Purdue's Bell Cluster to predict future sales for the CPG client on Amazon.com
-- Use optimization techniques to maximize profitability for consumer bundles on Amazon.com 
+- Deployed machine learning models (incl. LSTM, GRU & Prophet) on Purdue’s High Performance Bell Cluster to improve prediction accuracy by 100% for the CPG client on Amazon.com
+- Developed profit optimization model using Gurobi library, also created a Tableau dashboard to showcase recommendations
+
 
 
 
@@ -37,8 +38,7 @@
 
 *Data Analyst – Undisclosed Healthcare Client*
 
-- Extracted schema from Medicare EMRs to automate reporting for the client using MySQL
-- 2000+ work hours will be saved per year due to automation 
+- Automated daily reporting for an undisclosed healthcare client by extracting schema from Medicare EMRs (10K+ tables) using MySQL, saving 2000+ man hours per year 
 
 
 
@@ -66,7 +66,9 @@
 
 [View Project](https://github.com/Usama93-PU/AI-Chess-Engine) 
  
-- Chess Engine based on MiniMax Algorithm that can play against humans 
+- Chess engine based on **Deep Learning ML** algorithms that can play against humans
+- Used heuristics like **MinMax, AlphaBeta Pruning & Quiescence Search** to evaluate the game
+
 
 
 
@@ -76,7 +78,7 @@
 
 [View Project](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
 
-- Using supervised learning methods to predict bad loans
+- Using supervised learning methods to predict bad loans, achieved accuracy score of **88.92%** using XGBoost
 
 
 
@@ -89,7 +91,7 @@
 
 [View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
 
-- Interactive dashboard for Telecom Churn Rate using RStudio’s shinyApp package
+- Interactive dashboard to predict Telecom Churn Rate using **RStudio’s shinyApp** package
 
 
 
@@ -102,7 +104,7 @@
 
 [View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
 
-- Predicting hazard ratio for diabetes patients' using survival analysis
+- Successfully developed model to predict **hazard ratio** for diabetes patients' using survival analysis
 
 
 
@@ -114,7 +116,7 @@
 
 [View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
-- Used mySQL to develop a generalized DDL & DML for public library database management system
+- Used mySQL to develop a generalized **DDL & DML** for public library database management system
 
 
 
@@ -134,10 +136,12 @@
 
 # Certifications
 
+**Tableau Desktop Certified Associate** |
+
 # Resume
 
 
-[View Here](https://www.dropbox.com/preview/Usama%20Ather%20-%20Resume%20v1.2.pdf)
+[View Here](https://www.dropbox.com/s/ilsn4r3r7hm56v3/Usama%20Ather%20-%20Resume.pdf?dl=0)
 
 # LinkedIn
 
