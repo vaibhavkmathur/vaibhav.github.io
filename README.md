@@ -102,8 +102,7 @@
 
 
 
-[View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis)
-
+[View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis) 
 - Successfully developed model to predict **hazard ratio** for diabetes patients' using survival analysis
 
 
@@ -136,7 +135,11 @@
 
 # Certifications
 
-**Tableau Desktop Certified Associate** |
+** Data Scientist with R - Data Camp** | 2021
+
+** SAS 9.4 Base Programming - SAS Exam** | 2021
+
+**Tableau Desktop Certified Associate** | 2021
 
 # Resume
 
