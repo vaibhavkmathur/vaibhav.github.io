@@ -135,9 +135,9 @@
 
 # Certifications
 
-** Data Scientist with R - Data Camp** | 2021
+**Data Scientist with R - Data Camp** | 2021
 
-** SAS 9.4 Base Programming - SAS Exam** | 2021
+**SAS 9.4 Base Programming - SAS Exam** | 2021
 
 **Tableau Desktop Certified Associate** | 2021
 
