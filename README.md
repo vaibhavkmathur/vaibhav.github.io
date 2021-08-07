@@ -72,7 +72,7 @@
 
 
 
-**Lending Club Loan Classification** |
+**Lending Club Loan - Classification** |
 
 ![](/Images/download.png) 
 
