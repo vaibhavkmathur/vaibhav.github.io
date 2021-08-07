@@ -24,7 +24,7 @@
 
 ![](/Images/Amazon logo.png)
 
-*High Performance Computing Data Analyst - Amazon Portfolio*
+*High Performance Computing Analyst - Amazon Portfolio*
 
 - Deployed machine learning models (incl. LSTM, GRU & Prophet) on Purdue’s High Performance Bell Cluster to improve prediction accuracy by 100% for the CPG client on Amazon.com
 - Developed profit optimization model using Gurobi library, also created a Tableau dashboard to showcase recommendations
@@ -36,7 +36,7 @@
 
 ![](/Images/KrannertLogo.png)
 
-*Data Analyst – Undisclosed Healthcare Client*
+*Analytics Consultant – Undisclosed Healthcare Client*
 
 - Automated daily reporting for an undisclosed healthcare client by extracting schema from Medicare EMRs (10K+ tables) using MySQL, saving 2000+ man hours per year 
 
