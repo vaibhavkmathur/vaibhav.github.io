@@ -95,6 +95,19 @@
 
 
 
+**Bankruptcy Classification - Kaggle Challenge** |
+
+![](/Images/Kaggle_logo.png) 
+
+
+
+[View Project](https://github.com/Usama93-PU/Bankruptcy-Classification-Kaggle-Challenge) 
+- Developed a Gradient Boosting model using SAS Enterprise Miner to predict if a firm will go bankrupt, amongst **top 30% of class**
+
+
+
+
+
 **Diabetes Patient's Survival Analysis** |
 
 ![](/Images/Diabetic_eye_disease_600_adobespark.jfif) 
