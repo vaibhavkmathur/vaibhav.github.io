@@ -9,6 +9,7 @@
 
 - **Skills:** MySQL, R, Tableau, Python, Excel, SAS EM, SimQuick, Minitab, PowerBI, MongoDB, PowerPoint
 - **Core Competencies:** Business Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analytics, Prescriptive Analytics, Spreadsheet Modeling, Time Series Analysis, A/B Testing  
+- **Graduate Teaching Assistant**, Management of Organizational Data – Oct 2021
 
 
 **Lahore University of Management Sciences (LUMS)** | May 2016
@@ -26,9 +27,11 @@
 
 *High Performance Computing Analyst - Amazon Portfolio*
 
-- Deployed machine learning models (incl. LSTM, GRU & Prophet) on Purdue’s High Performance Bell Cluster to improve prediction accuracy by 100% for the CPG client on Amazon.com
-- Developed profit optimization model using Gurobi library, also created a Tableau dashboard to showcase recommendations
+- Implemented parallelization on Purdue’s Bell Cluster to execute 1170 hyper-tuned machine learning models (LSTM, GRU & Prophet) to get best prediction results for 45 products at a 60 times faster rate as compared to Google Colaboratory 
+- Developed optimization model using Gurobi library to maximize profitability and implement mixed promotional bundling on client’s Amazon.com portfolio
 
+
+[View Poster](https://www.dropbox.com/s/j3msq5hbrbichii/Final%20Poster.pdf?dl=0) | [View Presentation](https://www.youtube.com/watch?v=fZuwZ3Bi9RE&t=43s&ab_channel=UsamaAther) | [View Category Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/CategoryWiseDashboard/Dashboard1) | [View Product Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/ProductWiseDashboard/Dashboard1) 
 
 
 
@@ -38,7 +41,8 @@
 
 *Analytics Consultant – Undisclosed Healthcare Client*
 
-- Automated daily reporting for an undisclosed healthcare client by extracting schema from Medicare EMRs (10K+ tables) using MySQL, saving 2000+ man hours per year 
+- Automated data reporting from an EMR database using MySQL for an undisclosed firm, saving 2000+ man hours/year
+- Documented data & QA flow with appropriate security controls to replicate for other EMR database extractions
 
 
 
