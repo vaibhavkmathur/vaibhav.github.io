@@ -42,7 +42,7 @@
 
 *Analytics Consultant – Undisclosed Healthcare Client*
 
-- Automated data reporting from an EMR database using MySQL for an undisclosed firm, **saving 2000+ man hours/year**
+- Automated data reporting from an EMR database using MySQL for an undisclosed healthcare client, **saving 2000+ man hours/year**
 
 - Documented data & QA flow with appropriate security controls to replicate for other EMR database extractions
 
