@@ -27,12 +27,12 @@
 
 *High Performance Computing Analyst - Amazon Portfolio*
 
-- Implemented parallelization on Purdue’s Bell Cluster to execute 1170 hyper-tuned machine learning models (LSTM, GRU & Prophet) to get best prediction results for 45 products at a 60 times faster rate as compared to Google Colaboratory 
+- Implemented parallelization on Purdue’s Bell Cluster to execute **1170 hyper-tuned machine learning models** (LSTM, GRU & Prophet) to get best prediction results for 45 products at a **60 times faster rate** as compared to Google Colaboratory 
 
-- Developed optimization model using Gurobi library to maximize profitability and implement mixed promotional bundling on client’s Amazon.com portfolio
+- Developed optimization model using Gurobi library to maximize profitability and implement **mixed promotional bundling** on client’s Amazon.com portfolio
 
 
-[View Poster](https://www.dropbox.com/s/j3msq5hbrbichii/Final%20Poster.pdf?dl=0) | [View Presentation](https://www.youtube.com/watch?v=fZuwZ3Bi9RE&t=43s&ab_channel=UsamaAther) | [View Category Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/CategoryWiseDashboard/Dashboard1) | [View Product Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/ProductWiseDashboard/Dashboard1) |
+[View Poster](https://www.dropbox.com/s/j3msq5hbrbichii/Final%20Poster.pdf?dl=0)  [View Presentation](https://www.youtube.com/watch?v=fZuwZ3Bi9RE&t=43s&ab_channel=UsamaAther) [View Category Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/CategoryWiseDashboard/Dashboard1)  [View Product Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/ProductWiseDashboard/Dashboard1) 
 
 
 
@@ -42,7 +42,7 @@
 
 *Analytics Consultant – Undisclosed Healthcare Client*
 
-- Automated data reporting from an EMR database using MySQL for an undisclosed firm, saving 2000+ man hours/year
+- Automated data reporting from an EMR database using MySQL for an undisclosed firm, **saving 2000+ man hours/year**
 
 - Documented data & QA flow with appropriate security controls to replicate for other EMR database extractions
 
@@ -54,15 +54,15 @@
 
 *Channel Manager – Large Grocers*
 
-- Developed tracker dashboards for global brands including CERELAC & MILO to bring visibility around numeric coverage, repeat purchase and stock availability, resulting in 98% picture of success score adherence
+- Developed tracker dashboards for global brands including CERELAC & MILO to bring visibility around numeric coverage, repeat purchase and stock availability, **resulting in 98% picture of success score adherence**
 
-- Led a team of 5 which managed a budget of ~5M USD to deploy branding material across 1000+ top end shops across Pakistan resulting in 50% improvement in trade visibility
+- Led a team of 5 which managed a **budget of ~5M USD** to deploy branding material across 1000+ top end shops across Pakistan resulting in 50% improvement in trade visibility
 
 *Assistant Manager – eCommerce*
 
-- Spearheaded E-Commerce function for Nestlé Pakistan, achieved second highest growth (~350%) among all NESTLÉ markets in zone AOA (Asia, Oceania, Africa) region for 2018 & 2019
+- Spearheaded E-Commerce function for Nestlé Pakistan, **achieved second highest growth (~350%)** among all NESTLÉ markets in zone AOA (Asia, Oceania, Africa) region for 2018 & 2019
 
-- Coordinated with digital & brands teams to shape a performance marketing strategy to accelerate conversions through digital assets, among top 5 teams to be shortlisted for annual Facebook Cannes Awards, 2018
+- Coordinated with digital & brands teams to shape a performance marketing strategy to accelerate conversions through digital assets, a**mong top 5 teams to be shortlisted for annual Facebook Cannes Awards, 2018**
 
 # Projects
 
