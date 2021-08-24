@@ -32,7 +32,7 @@
 - Developed optimization model using Gurobi library to maximize profitability and implement **mixed promotional bundling** on client’s Amazon.com portfolio
 
 
-[View Poster](https://www.dropbox.com/s/j3msq5hbrbichii/Final%20Poster.pdf?dl=0)  [View Presentation](https://www.youtube.com/watch?v=fZuwZ3Bi9RE&t=43s&ab_channel=UsamaAther) [View Category Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/CategoryWiseDashboard/Dashboard1)  [View Product Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/ProductWiseDashboard/Dashboard1) 
+[View Poster](https://www.dropbox.com/s/j3msq5hbrbichii/Final%20Poster.pdf?dl=0) | [View Presentation](https://www.youtube.com/watch?v=fZuwZ3Bi9RE&t=43s&ab_channel=UsamaAther) | [View Category Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/CategoryWiseDashboard/Dashboard1) | [View Product Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/ProductWiseDashboard/Dashboard1) 
 
 
 
