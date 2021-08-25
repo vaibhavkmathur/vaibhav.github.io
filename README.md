@@ -62,7 +62,7 @@
 
 - Spearheaded E-Commerce function for Nestlé Pakistan, **achieved second highest growth (~350%)** among all NESTLÉ markets in zone AOA (Asia, Oceania, Africa) region for 2018 & 2019
 
-- Coordinated with digital & brands teams to shape a performance marketing strategy to accelerate conversions through digital assets, a**mong top 5 teams to be shortlisted for annual Facebook Cannes Awards, 2018**
+- Coordinated with digital & brands teams to shape a performance marketing strategy to accelerate conversions through digital assets, **among top 5 teams to be shortlisted for annual Facebook Cannes Awards, 2018**
 
 # Projects
 
