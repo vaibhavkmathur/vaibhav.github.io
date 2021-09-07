@@ -81,7 +81,7 @@
 
 
 
-[View Project](https://github.com/Usama93-PU/kingslayer) 
+[View Project](https://github.com/Usama93-PU/King-Slayer) 
  
 - Chess engine based on **Deep Learning ML** algorithms that can play against humans
 - Used heuristics like **MinMax, AlphaBeta Pruning & Quiescence Search** to evaluate the game
