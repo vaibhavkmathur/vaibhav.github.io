@@ -21,7 +21,14 @@
 
 # Work Experience
 
-**Undisclosed CPG Fortune 500 Company** | July 2021 - Present 
+**Undisclosed Inc. 5000 Analytics Consulting Company** | August 2021 - Present 
+
+*Analytics Consultant*
+
+- Developing an **A/B testing & measurement accelerator** for retail sector clients by deploying machine learning techniques
+
+
+**Undisclosed CPG Fortune 500 Company** | July 2021 - August 2021 
 
 ![](/Images/Amazon logo.png)
 
@@ -38,7 +45,7 @@
 
 
 
-**Krenicki Center for Data Analytics & Machine Learning** | June 2021 - Present
+**Krenicki Center for Data Analytics & Machine Learning** | June 2021 - August 2021
 
 ![](/Images/KrannertLogo.png)
 
