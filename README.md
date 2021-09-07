@@ -81,7 +81,7 @@
 
 
 
-[View Project](https://github.com/Usama93-PU/AI-Chess-Engine) 
+[View Project](https://github.com/Usama93-PU/kingslayer) 
  
 - Chess engine based on **Deep Learning ML** algorithms that can play against humans
 - Used heuristics like **MinMax, AlphaBeta Pruning & Quiescence Search** to evaluate the game
@@ -159,7 +159,7 @@
 
 # Awards
 
-**ECS Hackathon Winner - 2021** |
+**ECS Hackathon Winner - 2021** | [Purdue Announcement](https://krannert.purdue.edu/news/features/home.php?story=7130)
 
 ![](/Images/ECS_adobespark.jfif)
 
