@@ -10,6 +10,7 @@
 - **Skills:** MySQL, R, Tableau, Python, Excel, SAS EM, SimQuick, Minitab, PowerBI, MongoDB, PowerPoint
 - **Core Competencies:** Business Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analytics, Prescriptive Analytics, Spreadsheet Modeling, Time Series Analysis, Cloud Computing, A/B Testing  
 - **Graduate Teaching Assistant**, Management of Organizational Data – Oct 2021
+- **Pursuing STEM degree with OPT extension upto 3 years**
 
 
 **Lahore University of Management Sciences (LUMS)** | May 2016
@@ -21,14 +22,14 @@
 
 # Work Experience
 
-**Undisclosed Inc. 5000 Analytics Consulting Company** | August 2021 - Present 
+**Inc. 5000 Analytics Consulting Company** | August 2021 - Present 
 
 *Analytics Consultant*
 
 - Developing an **A/B testing & measurement accelerator** for retail sector clients by deploying machine learning techniques
 
 
-**Undisclosed CPG Fortune 500 Company** | July 2021 - August 2021 
+**CPG Fortune 500 Company** | July 2021 - August 2021 
 
 ![](/Images/Amazon logo.png)
 
@@ -61,13 +62,13 @@
 
 ![](/Images/nestle-logo-black-and-white.png)
 
-*Channel Manager – Large Grocers*
+*Retail Marketing Manager – Large Grocer*
 
 - Developed tracker dashboards for global brands including CERELAC & MILO to bring visibility around numeric coverage, repeat purchase and stock availability, **resulting in 98% picture of success score adherence**
 
 - Led a team of 5 which managed a **budget of ~5M USD** to deploy branding material across 1000+ top end shops across Pakistan resulting in 50% improvement in trade visibility
 
-*Assistant Manager – eCommerce*
+*E-Commerce Manager*
 
 - Spearheaded E-Commerce function for Nestlé Pakistan, **achieved second highest growth (~350%)** among all NESTLÉ markets in zone AOA (Asia, Oceania, Africa) region for 2018 & 2019
 
