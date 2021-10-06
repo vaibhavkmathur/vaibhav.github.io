@@ -22,6 +22,8 @@
 
 # Work Experience
 
+![](/Images/ab-testing.png)
+
 **Inc. 5000 Analytics Consulting Company** | August 2021 - Present 
 
 *Analytics Consultant*
@@ -150,10 +152,10 @@
 
 
 
-**FIFA World Cup History Visualization** |
+**Tableau Public Profile** |
 
-![](/Images/FIFA-Logo_adobespark.png) 
-[View Project](https://public.tableau.com/app/profile/usama.ather/viz/FIFAWorldCupHistory_16251905207180/Dashboard1)
+![](/Images/tableaulogo_highres) 
+[View Profile](https://public.tableau.com/app/profile/usama.ather)
 
 
 
