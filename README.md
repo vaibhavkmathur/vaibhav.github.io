@@ -154,7 +154,7 @@
 
 **Tableau Public Profile** |
 
-![](/Images/tableaulogo_highres) 
+![](/Images/tableaulogo_highres.png) 
 [View Profile](https://public.tableau.com/app/profile/usama.ather)
 
 
