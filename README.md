@@ -148,7 +148,7 @@
 
 [View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
 
-- Used mySQL to develop a generalized **DDL & DML** for public library database management system
+- Used MySQL to develop a generalized **DDL & DML** for public library database management system
 
 
 
