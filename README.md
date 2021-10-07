@@ -28,7 +28,7 @@
 
 *Analytics Consultant*
 
-- Developing an **A/B testing & measurement accelerator** for retail sector clients by deploying machine learning techniques
+- Developing an **A/B testing & measurement accelerator** using corner cases in retail sector to solve problems ranging from last mile deliveries to ad spend uplift, projected to **decrease manual work by more than 50%**
 
 
 **CPG Fortune 500 Company** | July 2021 - August 2021 
@@ -39,7 +39,7 @@
 
 - Implemented parallelization on Purdue’s Bell Cluster to execute 1170 hyper-tuned machine learning models (LSTM, GRU & Prophet) to get best prediction results for 45 products at a **60 times faster rate** as compared to Google Colaboratory
 
-- Designed an optimization model using Gurobi library to maximize profitability and implement **mixed promotional bundling** on client’s Amazon.com portfolio
+- Designed an optimization model using Gurobi library to implement mixed promotional bundling on client’s Amazon.com portfolio, with projected **profitability increase of 5%**
 
 - Developed a **business intelligence Tableau dashboard** to track weekly sales data (actual v. predicted) on Amazon platform
 
