@@ -8,17 +8,11 @@
 *Master of Business Analytics and Information Management* 
 
 - **Skills:** SQL, Tableau, Python, R, AWS, PowerBI, MongoDB, Google Analytics, SPSS, PySpark, Minitab, SAS EM
-
 - **Core Competencies:** Data Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Data Management, Predictive Analytics, Prescriptive Analytics, ETL, Cloud Computing, Time Series Analysis, A/B Testing
-
 - **Certifications:** Tableau Desktop Specialist, AWS Certified Cloud Practitioner 
-
 - **Graduate Teaching Assistant:** Management of Organizational Data (SQL based) 
-
 - **Vice President:** Krannert Energy Club
-
 - **Pursuing STEM degree with OPT extension upto 3 years**
-
 
 
 
