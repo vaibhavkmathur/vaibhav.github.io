@@ -7,9 +7,11 @@
 
 *Master of Business Analytics and Information Management* 
 
-- **Skills:** MySQL, R, Tableau, Python, Excel, SAS EM, SimQuick, Minitab, PowerBI, MongoDB, PowerPoint
-- **Core Competencies:** Business Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analytics, Prescriptive Analytics, Spreadsheet Modeling, Time Series Analysis, Cloud Computing, A/B Testing  
-- **Graduate Teaching Assistant**, Management of Organizational Data – Oct 2021
+- **Skills:** SQL, Tableau, Python, R, AWS, PowerBI, MongoDB, Google Analytics, SPSS, PySpark, Minitab, SAS EM
+- **Core Competencies:** Data Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Data Management, Predictive Analytics, Prescriptive Analytics, ETL, Cloud Computing, Time Series Analysis, A/B Testing
+- **Certifications:** Tableau Desktop Specialist, AWS Certified Cloud Practitioner 
+- **Graduate Teaching Assistant:** Management of Organizational Data (SQL based) 
+- **Vice President:** Krannert Energy Club
 - **Pursuing STEM degree with OPT extension upto 3 years**
 
 
@@ -24,22 +26,53 @@
 
 ![](/Images/ab-testing.png)
 
-**Inc. 5000 Analytics Consulting Company** | August 2021 - Present 
+**Analytics Consulting Company** | August 2021 - Present 
 
-*Analytics Consultant*
+*Data Analyst*
 
-- Developing an **A/B testing & measurement accelerator** using corner cases in retail sector to solve problems ranging from last mile deliveries to ad spend uplift, projected to **decrease manual work by more than 50%**
+- Cleaned and prepped datasets using **Python & SQL** to create control and test groups for hypothesis testing 
+- Parameterized test results to develop an automated **A/B testing & measurement accelerator** to solve business problems ranging from last mile deliveries to ad spend uplift, projected to **reduce man-efforts by more than 60%** 
 
 
-**CPG Fortune 500 Company** | July 2021 - August 2021 
+
+**Krenicki Center for Data Analytics & Machine Learning** | June 2021 - August 2021
+
+![](/Images/KrannertLogo.png)
+
+*Analytics Consultant – National Healthcare Client*
+
+- Performed ETL on client’s source database to automate reporting for actionable business insights using SQL and Excel for a national healthcare firm, **saving 2000+ man hours per year**
+- Documented **data design & QA workflow** with relevant security controls to generalize source database extractions
+
+
+
+
+**Nestlé** |        August 2016 - January 2021
+
+![](/Images/nestle-logo-black-and-white.png)
+
+*Manager, Retail Marketing Analytics*
+
+- Used SQL & Tableau to design BI reporting dashboards to track key business KPIs including numeric coverage, repeat purchase and stock availability, **resulting in 98% target adherence** 
+- Led a team of 5 to develop data driven marketing mix and customer segmentation models to plan tactical retail interventions resulting in **~50% improvement in in-store purchases**
+
+
+*Assistant Manager, E-Commerce Strategy*
+
+- Used Google Analytics to shape a performance marketing strategy to accelerate purchase conversion through digital marketing assets, **resulting in 145% increase in ad spend ROI**
+- Spearheaded E-Commerce function for Nestlé Pakistan, **achieved highest growth (~350%)** among all Nestlé markets in zone AOA (Asia, Oceania, Africa) for 2018 & 2019
+
+
+# Projects
+
+**High Performance Computing - Colgate Palmolive** |  
 
 ![](/Images/Amazon logo.png)
 
-*High Performance Computing Analyst - Amazon Portfolio*
 
-- Implemented parallelization on Purdue’s Bell Cluster to execute 1170 hyper-tuned machine learning models (LSTM, GRU & Prophet) to get best prediction results for 45 products at a **60 times faster rate** as compared to Google Colaboratory
+- Implemented parallelization on Purdue’s Bell Cluster to execute 1170 hyper-tuned machine learning models (LSTM, GRU & Prophet) to get best prediction results for 45 products at a **60 times faster rate** as compared to Google Colaboratory 
 
-- Designed an optimization model using Gurobi library to implement mixed promotional bundling on client’s Amazon.com portfolio, with projected **profitability increase of 5%**
+- Designed an optimization model using Gurobi library to implement mixed promotional bundling for product portfolio on Amazon.com, with projected **profitability increase of 4%**
 
 - Developed a **business intelligence Tableau dashboard** to track weekly sales data (actual v. predicted) on Amazon platform
 
@@ -48,47 +81,15 @@
 
 
 
-**Krenicki Center for Data Analytics & Machine Learning** | June 2021 - August 2021
-
-![](/Images/KrannertLogo.png)
-
-*Analytics Consultant – Undisclosed Healthcare Client*
-
-- Automated data reporting from an EMR database using MySQL for an undisclosed healthcare client, **saving 2000+ man hours/year**
-
-- Documented data & QA work flow with relevant security controls to replicate for other EMR database extractions
-
-
-
-**Nestlé Pakistan Ltd** |        August 2016 - January 2021
-
-![](/Images/nestle-logo-black-and-white.png)
-
-*Retail Marketing Manager – Large Grocer*
-
-- Developed tracker dashboards for global brands including CERELAC & MILO to bring visibility around numeric coverage, repeat purchase and stock availability, **resulting in 98% picture of success score adherence**
-
-- Led a team of 5 which managed a **budget of ~5M USD** to deploy branding material across 1000+ top end shops across Pakistan resulting in 50% improvement in trade visibility
-
-*E-Commerce Manager*
-
-- Spearheaded E-Commerce function for Nestlé Pakistan, **achieved second highest growth (~350%)** among all NESTLÉ markets in zone AOA (Asia, Oceania, Africa) region for 2018 & 2019
-
-- Coordinated with digital & brands teams to shape a performance marketing strategy to accelerate conversions through digital assets, **among top 5 teams to be shortlisted for annual Facebook Cannes Awards, 2018**
-
-# Projects
-
 **AI Chess Engine** | 
 
 ![](/Images/Chess.jfif) 
 
 
-
 [View Project](https://github.com/Usama93-PU/King-Slayer) 
  
-- Chess engine based on **Deep Learning ML** algorithms that can play against humans
-- Used heuristics like **MinMax, AlphaBeta Pruning & Quiescence Search** to evaluate the game
-
+- Created a chess engine using Python based on **Deep Learning ML** algorithms that can play against humans
+- Tested the chess engine v. bots on Chess.com to achieve an **Elo rating of approximately 1150** 
 
 
 
@@ -111,7 +112,8 @@
 
 [View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
 
-- Interactive dashboard to predict Telecom Churn Rate using **RStudio’s shinyApp** package
+- Performed data wrangling on telecom data to design churn rate prediction model using **Gradient Boosting** algorithm 
+- Created an interactive app using **R ShinyApp** to showcase descriptive analytics and implement dynamic predictive modeling for end business user 
 
 
 
@@ -155,7 +157,7 @@
 **Tableau Public Profile** |
 
 ![](/Images/tableaulogo_highres.png) 
-[View Profile](https://public.tableau.com/app/profile/usama.ather)
+- Click [here](https://public.tableau.com/app/profile/usama.ather) to view my data visualizations projects
 
 
 
