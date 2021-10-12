@@ -31,6 +31,7 @@
 *Data Analyst*
 
 - Cleaned and prepped datasets using **Python & SQL** to create control and test groups for hypothesis testing 
+
 - Parameterized test results to develop an automated **A/B testing & measurement accelerator** to solve business problems ranging from last mile deliveries to ad spend uplift, projected to **reduce man-efforts by more than 60%** 
 
 
@@ -42,6 +43,7 @@
 *Analytics Consultant – National Healthcare Client*
 
 - Performed ETL on client’s source database to automate reporting for actionable business insights using SQL and Excel for a national healthcare firm, **saving 2000+ man hours per year**
+
 - Documented **data design & QA workflow** with relevant security controls to generalize source database extractions
 
 
@@ -53,13 +55,15 @@
 
 *Manager, Retail Marketing Analytics*
 
-- Used SQL & Tableau to design BI reporting dashboards to track key business KPIs including numeric coverage, repeat purchase and stock availability, **resulting in 98% target adherence** 
+- Used SQL & Tableau to design BI reporting dashboards to track key business KPIs including numeric coverage, repeat purchase and stock availability, **resulting in 98% target adherence**
+ 
 - Led a team of 5 to develop data driven marketing mix and customer segmentation models to plan tactical retail interventions resulting in **~50% improvement in in-store purchases**
 
 
 *Assistant Manager, E-Commerce Strategy*
 
 - Used Google Analytics to shape a performance marketing strategy to accelerate purchase conversion through digital marketing assets, **resulting in 145% increase in ad spend ROI**
+
 - Spearheaded E-Commerce function for Nestlé Pakistan, **achieved highest growth (~350%)** among all Nestlé markets in zone AOA (Asia, Oceania, Africa) for 2018 & 2019
 
 
@@ -89,6 +93,7 @@
 [View Project](https://github.com/Usama93-PU/King-Slayer) 
  
 - Created a chess engine using Python based on **Deep Learning ML** algorithms that can play against humans
+
 - Tested the chess engine v. bots on Chess.com to achieve an **Elo rating of approximately 1150** 
 
 
@@ -113,6 +118,7 @@
 [View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
 
 - Performed data wrangling on telecom data to design churn rate prediction model using **Gradient Boosting** algorithm 
+
 - Created an interactive app using **R ShinyApp** to showcase descriptive analytics and implement dynamic predictive modeling for end business user 
 
 
