@@ -65,7 +65,7 @@
 
 - Used Google Analytics to shape a performance marketing strategy to accelerate purchase conversion through digital marketing assets, **resulting in 145% increase in ad spend ROI**
 
-- Spearheaded E-Commerce function for Nestlé Pakistan, **achieved highest growth (~350%)** among all Nestlé markets in zone AOA (Asia, Oceania, Africa) for 2018 & 2019
+- Spearheaded E-Commerce function for Nestlé, **achieved highest growth (~350%)** among all Nestlé markets in zone AOA (Asia, Oceania, Africa) for 2018 & 2019
 
 
 # Projects
