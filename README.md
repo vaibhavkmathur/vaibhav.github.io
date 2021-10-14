@@ -25,9 +25,9 @@
 
 # Work Experience
 
-![](/Images/ab-testing.png)
+![](/Images/Logo_Horizontal-2.png)
 
-**Analytics Consulting Company** | August 2021 - Present 
+**Tredence Inc.** | August 2021 - Present 
 
 *Data Analyst*
 
