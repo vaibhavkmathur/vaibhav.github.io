@@ -23,9 +23,25 @@
 
 # Work Experience
 
+**Omnibiz Aftrica** |  2020 -  2021
+
+![](/Images/omnibiz.png)
+
+*Product Management Lead*
+
+- Designed and launched a new react-native B2B e-commerce app and revamped the existing web app by leading a team of engineers and UX designers in 2 countries to increase the monthly active users from 7,000 to 30,000 
+
+- Created customer clusters by analyzing purchase patterns & basket analysis and launched promotions to increase order size by 17%
+
 ![](/Images/Tolaram.png)
 
-**Tredence Inc.** | August 2021 - Present 
+**Tolaram Group.** | May 2017 - February 2021
+
+*Head of Product & Marketing* ($500Mn CPG Brands – Managed P&L as well as 10 direct & 200 indirect subordinates)  
+•	Achieved highest Brand Equity Index from 7.4 to 7.6 and 98% sales target during COVID by mitigating supply chain risks & ramping up social Initiative by coordinating with PR, media agencies, and production teams
+•	Demand Forecasting – Preempted potential stockouts and improved the mobility of critical supplies like cartons, packaging material, and seasoning during COVID to become the only brand in the category to maintain 100% product availability
+•	Launched an educational mobile app achieving 10,000 monthly active users and onboarded 100,000 Kids for the largest product Fanclub in Nigeria by digitizing the entire value chain of 50 executives and 3,000 schools (bit.ly/brightmindsindomie)
+•	Led a team of brand managers and creative agencies to create and launch ‘new theme campaign’ by producing 2 TVCs in record time, releasing consumer promotion, and envisioning a communication strategy to halt the decline and grow the category by 2.5%
 
 *Data Analyst*
 
@@ -35,15 +51,6 @@
 
 
 
-**Krenicki Center for Data Analytics & Machine Learning** | June 2021 - August 2021
-
-![](/Images/KrannertLogo.png)
-
-*Analytics Consultant – National Healthcare Client*
-
-- Performed ETL on client’s source database to automate reporting for actionable business insights using SQL and Excel for a national healthcare firm, **saving 2000+ man hours per year**
-
-- Documented **data design & QA workflow** with relevant security controls to generalize source database extractions
 
 
 
