@@ -175,13 +175,7 @@
 
 ![](/Images/ECS_adobespark.jfif)
 
-# Certifications
 
-[AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/f4386342-84de-419e-9d11-8eb7f3512aea)
-
-[Data Scientist with R - Data Camp](https://www.datacamp.com/statement-of-accomplishment/track/3d40ac666006b121e2b57c5df0d621c196eb83cf)
-
-[SAS 9.4 Base Programming - SAS Exam](https://www.credly.com/badges/08c9c50a-0b1b-4d81-b34a-d2a35f10e756?source=linked_in_profile)
 
 
 # Resume
