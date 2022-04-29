@@ -3,7 +3,7 @@
 
 # Education 
 
-**Purdue University, Krannert School of Management** | December 2021
+**Purdue University, Krannert School of Management** | June 2022
 
 *Master of Business Analytics and Information Management* 
 
