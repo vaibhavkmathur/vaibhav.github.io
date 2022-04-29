@@ -23,7 +23,7 @@
 
 # Work Experience
 
-![](/Images/Logo_Horizontal-2.png)
+![](/Images/Tolaram.png)
 
 **Tredence Inc.** | August 2021 - Present 
 
