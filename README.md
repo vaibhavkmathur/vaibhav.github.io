@@ -164,3 +164,8 @@ of devising a comparison model to find similar products from the database of a m
 
 [Visit Here](https://www.linkedin.com/in/vaibhav-mathur-59025257/)
 
+# Contact me
+
+**Phone no.** : +1 765-767-2500
+**Email**     : vaibhavkmathur@gmail.com
+
