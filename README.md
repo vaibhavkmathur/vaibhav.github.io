@@ -14,18 +14,25 @@
 
 
 
-**Indian School of Business** | April 2017
 
-*MBA - STrategy & Operations* 
+
+**Indian School of Business** |   April 2017
+
+*MBA - Strategy & Operations* 
 
 - Graduated with **Dean's List Certification - Top 10% of the Class**
 
 
+
+
+
 # Work Experience
+
 
 ![](/Images/omnibiz.png)
 
-**Omnibiz Aftrica** | 2020 -  2021
+
+**Omnibiz Aftrica** |   August 2020 -  Feburary 2021
 
 *Product Management Lead*
 
