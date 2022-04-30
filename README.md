@@ -80,7 +80,7 @@ of devising a comparison model to find similar products from the database of a m
 - For this project, a public dataset with image and text features was used to identify Cosine similarities by deploying EfficientNetB0, Sentence BERT, and Word2Vec models to find the most similar products.
 
 
-[View Poster](https://drive.google.com/file/d/1whm8wN_Ka5dtcZvGKLqpUdKCf_RPobyh/view?usp=sharing) | [View Presentation](https://drive.google.com/file/d/159kTRM6h9skI6DL_RZVQq_0xUO4LNc7X/view?usp=sharing) | [View Paper](https://drive.google.com/file/d/1o1ZeTQEwi7vLA8nFmi0aJp-8IRIX1wj3/view?usp=sharing) 
+[View Poster](https://drive.google.com/file/d/1whm8wN_Ka5dtcZvGKLqpUdKCf_RPobyh/view?usp=sharing) | [View Presentation](https://drive.google.com/file/d/159kTRM6h9skI6DL_RZVQq_0xUO4LNc7X/view?usp=sharing) | [View Paper](https://drive.google.com/file/d/1o1ZeTQEwi7vLA8nFmi0aJp-8IRIX1wj3/view?usp=sharing) | [View Project](https://github.com/guptaneha92/e-rec)
 
 
 
@@ -92,7 +92,7 @@ of devising a comparison model to find similar products from the database of a m
 
 - Used SQL to find business insights relvant for key stakeholders
 
- [View Presentation](https://drive.google.com/file/d/14Ax0MXGlfOmmcVPjwBBtlSD_7-dMg71N/view?usp=sharing) | [View Project](https://github.com/Usama93-PU/King-Slayer) 
+ [View Presentation](https://drive.google.com/file/d/14Ax0MXGlfOmmcVPjwBBtlSD_7-dMg71N/view?usp=sharing) | [View Project](https://github.com/Usama93-PU/King-Slayer) | [View Code](https://github.com/vaibhavkmathur/modproject) 
 
 
 
@@ -110,7 +110,7 @@ of devising a comparison model to find similar products from the database of a m
 
 
 
-**Default Prediction - Loan Default ANalysis** |
+**Default Prediction - Loan Default Analysis** |
 
 ![](/Images/sas.png) 
 
