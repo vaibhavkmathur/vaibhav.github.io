@@ -145,6 +145,7 @@ of devising a comparison model to find similar products from the database of a m
 ![](/Images/walmart.png) 
 
 - Analysed Walmart sales data and propsed strategies to improve performance using Python
+
 [View Presentation](https://drive.google.com/file/d/1Nkx4B5In26gKs7GY_HpS9WCPlwMB4O8A/view?usp=sharing) | [View Project](https://github.com/vaibhavkmathur/walmart) 
 
 
