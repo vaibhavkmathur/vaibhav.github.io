@@ -62,101 +62,68 @@
 - This Project ‘ An Algorithmic Approach to Identify Similar Products on an e-Commerce Platform’ is a step directed towards research in the field
 of devising a comparison model to find similar products from the database of a marketplace. Our research on this topic will help the industry to move towards automation and deliver accurate competitive analysis to justify marketing expenditure. For this project, a public dataset with image and text features was used to identify Cosine similarities by deploying EfficientNetB0, Sentence BERT, and Word2Vec models to find the most similar products.
 
-[View Poster](https://drive.google.com/file/d/1whm8wN_Ka5dtcZvGKLqpUdKCf_RPobyh/view?usp=sharing) | [View Presentation](https://drive.google.com/file/d/159kTRM6h9skI6DL_RZVQq_0xUO4LNc7X/view?usp=sharing) |  | [View Paper](https://drive.google.com/file/d/1o1ZeTQEwi7vLA8nFmi0aJp-8IRIX1wj3/view?usp=sharing) 
+[View Poster](https://drive.google.com/file/d/1whm8wN_Ka5dtcZvGKLqpUdKCf_RPobyh/view?usp=sharing) | [View Presentation](https://drive.google.com/file/d/159kTRM6h9skI6DL_RZVQq_0xUO4LNc7X/view?usp=sharing) | [View Paper](https://drive.google.com/file/d/1o1ZeTQEwi7vLA8nFmi0aJp-8IRIX1wj3/view?usp=sharing) 
 
 
 
-**AI Chess Engine** | 
+**Desigining database for a retail company to find busines insights** | 
 
-![](/Images/Chess.jfif) 
+![](/Images/omnibiz.png) 
 
 
-[View Project](https://github.com/Usama93-PU/King-Slayer) 
  
-- Created a chess engine using Python based on **Deep Learning ML** algorithms that can play against humans
+- Designed database for Omnibiz Africa - A B2B retail company to manage organizational data
 
-- Tested the chess engine v. bots on Chess.com to achieve an **Elo rating of approximately 1150** 
+- Used SQL to find business insights relvant for key stakeholders
 
+ [View Presentation](https://drive.google.com/file/d/14Ax0MXGlfOmmcVPjwBBtlSD_7-dMg71N/view?usp=sharing) | [View Project](https://github.com/Usama93-PU/King-Slayer) 
 
+**Analysed the Impact of Covid on Airbnb** |
 
-**Lending Club Loan - Classification** |
+![](/Images/airbnb.png) 
 
-![](/Images/download.png) 
-
-[View Project](https://github.com/Usama93-PU/Lending-Club-Loan-Classification)
-
-- Using supervised learning methods to predict bad loans, achieved accuracy score of **88.92%** using XGBoost
+ [View Presentation](https://drive.google.com/file/d/1DegyR1LhZ7rgK-RAtDEFwjaBms-dagXA/view?usp=sharing)
 
 
+**Default PRediction - Loan Default ANalysis** |
 
-**R Shiny App - Telecom Churn Rate Analysis** |
-
-![](/Images/Telecom-operators-and-reducing-customer-churn_adobespark.jfif) 
-
+![](/Images/Tsas.png) 
 
 
+- Developed a Gradient Boosting model using SAS Enterprise Miner to predict loan default, amongst **top 30% of class**
 
-[View Project](https://github.com/Usama93-PU/R-ShinyApp-Telco-Churn-Rate)
-
-- Performed data wrangling on telecom data to design churn rate prediction model using **Gradient Boosting** algorithm 
-
-- Created an interactive app using **R ShinyApp** to showcase descriptive analytics and implement dynamic predictive modeling for end business user 
+[View Project](https://drive.google.com/file/d/1u2rsy2P_-L617IYNXZ1u-6qs2jmVEGID/view?usp=sharing)
 
 
 
-**Bankruptcy Classification - Kaggle Challenge** |
+**Dogecoin price trend analysis based on Twitter sentiments** |
 
-![](/Images/Kaggle_logo.png) 
+![](/Images/doge.png) 
+
+- Used Twitter data to train model on Google platform and predicted the price cryptocurrency 'Dogecoin'
 
 
-
-[View Project](https://github.com/Usama93-PU/Bankruptcy-Classification-Kaggle-Challenge) 
-- Developed a Gradient Boosting model using SAS Enterprise Miner to predict if a firm will go bankrupt, amongst **top 30% of class**
+[View Project](https://drive.google.com/file/d/10AjRakVSgyHvbg0tzqPnoGXDLmybId-h/view?usp=sharing) 
 
 
 
 
 
-**Diabetes Patient's Survival Analysis** |
+**The Jio Game** |
 
-![](/Images/Diabetic_eye_disease_600_adobespark.jfif) 
-
-
+![](/Images/jio.png) 
 
 
-[View Project](https://github.com/Usama93-PU/Diabetes-Patients-Survival-Analysis) 
-- Successfully developed model to predict **hazard ratio** for diabetes patients' using survival analysis
-
-
-
-
-**Public Library Database Management System** |
-
-![](/Images/1280px-Seattle_Public_Library_logo.svg.png) 
-
-
-[View Project](https://github.com/Usama93-PU/Public-Library-Database-Management-System)
+[View Project](https://drive.google.com/file/d/1-ebQ7i-fMrT-CuaDfJ57kXjeaG_TuWSn/view?usp=sharing)
 
 - Used MySQL to develop a generalized **DDL & DML** for public library database management system
-
-
-
-**Tableau Public Profile** |
-
-![](/Images/tableaulogo_highres.png) 
-- Click [here](https://public.tableau.com/app/profile/usama.ather) to view my data visualizations projects
 
 
 
 
 # Awards
 
-**ECS Hackathon Winner - 2021** | [Purdue Announcement](https://krannert.purdue.edu/news/features/home.php?story=7130) | [View Project](https://github.com/Usama93-PU/Espoir-Mental-Health-App)
-
-![](/Images/ECS_adobespark.jfif)
-
-
-
+**Krannert Scholar - 2022** | 
 
 # Resume
 
