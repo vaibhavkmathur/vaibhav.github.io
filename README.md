@@ -139,6 +139,15 @@ of devising a comparison model to find similar products from the database of a m
 [View Project](https://drive.google.com/file/d/1-ebQ7i-fMrT-CuaDfJ57kXjeaG_TuWSn/view?usp=sharing)
 
 
+
+**Walmart Sales Analysis using Python** |
+
+![](/Images/walmart.png) 
+
+- Analysed Walmart sales data and propsed strategies to improve performance using Python
+[View Presentation](https://drive.google.com/file/d/1Nkx4B5In26gKs7GY_HpS9WCPlwMB4O8A/view?usp=sharing) | [View Project](https://github.com/vaibhavkmathur/walmart) 
+
+
 # Awards
 
 **Krannert Scholar - 2022** | **ISB Dean's List scholar - 2017** | 
