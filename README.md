@@ -21,7 +21,7 @@ Graduated with **Krannert Scholar Award - Top 5% of the Class**
 
 *MBA - Strategy & Operations* 
 
-- Graduated with **Dean's List Certification - Top 10% of the Class**
+Graduated with **Dean's List Certification - Top 10% of the Class**
 
 
 # Work Experience
