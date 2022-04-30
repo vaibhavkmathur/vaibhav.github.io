@@ -7,6 +7,7 @@
 **Purdue University, Krannert School of Management** | June 2022
 
 *Master of Business Analytics and Information Management* 
+
 Graduated with **Krannert Scholar Award - Top 5% of the Class**
 
 - **Skills:** SQL, Tableau, Python
