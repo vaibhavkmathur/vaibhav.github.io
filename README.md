@@ -92,7 +92,7 @@ of devising a comparison model to find similar products from the database of a m
 
 - Used SQL to find business insights relvant for key stakeholders
 
- [View Presentation](https://drive.google.com/file/d/14Ax0MXGlfOmmcVPjwBBtlSD_7-dMg71N/view?usp=sharing) | [View Project](https://github.com/Usama93-PU/King-Slayer) | [View Code](https://github.com/vaibhavkmathur/modproject) 
+ [View Presentation](https://drive.google.com/file/d/14Ax0MXGlfOmmcVPjwBBtlSD_7-dMg71N/view?usp=sharing) | [View Code](https://github.com/vaibhavkmathur/modproject) 
 
 
 
