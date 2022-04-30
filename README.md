@@ -43,7 +43,7 @@
 •	Launched an educational mobile app achieving 10,000 monthly active users and onboarded 100,000 Kids for the largest product Fanclub in Nigeria by digitizing the entire value chain of 50 executives and 3,000 schools (bit.ly/brightmindsindomie)
 •	Led a team of brand managers and creative agencies to create and launch ‘new theme campaign’ by producing 2 TVCs in record time, releasing consumer promotion, and envisioning a communication strategy to halt the decline and grow the category by 2.5%
 
-**Indian SPace Research ORganization** | 2012 - 2016
+**Indian Space Research ORganization** | 2012 - 2016
 
 ![](/Images/isro.png)
 
