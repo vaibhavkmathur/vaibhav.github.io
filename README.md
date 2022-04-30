@@ -9,11 +9,6 @@
 - **Core Competencies:** Data Analytics, Business Management, Marketing Analytics, Brand Management
 - **Director of Planning:** Krannert Graduate Student Association
 - **Pursuing STEM degree with OPT extension upto 3 years**
-*
-*
-
-
-
 **Indian School of Business** |      April 2017
 
 *MBA - Strategy & Operations* 
