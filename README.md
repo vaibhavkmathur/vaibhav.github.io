@@ -46,7 +46,6 @@
 **Indian Space Research Organization** | 2012 - 2016
 
 ![](/Images/isro.png)
-
 *Scientist*
 
 - Led a team of technicians to execute high demand space shuttle launch operations by planning Agile workflow for 10+ successful launch campaigns including ‘Mars Orbiter Mission’ to ensure on-time project completion
@@ -55,19 +54,15 @@
 
 # Projects
 
-**High Performance Computing - Colgate Palmolive** |  
+**Identifying Similar Products - Amazon** |  
 
 ![](/Images/Amazon logo.png)
 
 
-- Implemented parallelization on Purdue’s Bell Cluster to execute 1170 hyper-tuned machine learning models (LSTM, GRU & Prophet) to get best prediction results for 45 products at a **60 times faster rate** as compared to Google Colaboratory 
+- This Project ‘ An Algorithmic Approach to Identify Similar Products on an e-Commerce Platform’ is a step directed towards research in the field
+of devising a comparison model to find similar products from the database of a marketplace. Our research on this topic will help the industry to move towards automation and deliver accurate competitive analysis to justify marketing expenditure. For this project, a public dataset with image and text features was used to identify Cosine similarities by deploying EfficientNetB0, Sentence BERT, and Word2Vec models to find the most similar products.
 
-- Designed an optimization model using Gurobi library to implement mixed promotional bundling for product portfolio on Amazon.com, with projected **profitability increase of 4%**
-
-- Developed a **business intelligence Tableau dashboard** to track weekly sales data (actual v. predicted) on Amazon platform
-
-
-[View Poster](https://www.dropbox.com/s/j3msq5hbrbichii/Final%20Poster.pdf?dl=0) | [View Presentation](https://www.youtube.com/watch?v=fZuwZ3Bi9RE&t=43s&ab_channel=UsamaAther) | [View Category Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/CategoryWiseDashboard/Dashboard1) | [View Product Dashboard](https://public.tableau.com/app/profile/usama.ather/viz/ProductWiseDashboard/Dashboard1) 
+[View Poster](https://drive.google.com/file/d/1whm8wN_Ka5dtcZvGKLqpUdKCf_RPobyh/view?usp=sharing) | [View Presentation](https://drive.google.com/file/d/159kTRM6h9skI6DL_RZVQq_0xUO4LNc7X/view?usp=sharing) |  | [View Paper](https://drive.google.com/file/d/1o1ZeTQEwi7vLA8nFmi0aJp-8IRIX1wj3/view?usp=sharing) 
 
 
 
