@@ -128,9 +128,9 @@ of devising a comparison model to find similar products from the database of a m
 # Resume
 
 
-[View Here](https://www.dropbox.com/s/ilsn4r3r7hm56v3/Usama%20Ather%20-%20Resume.pdf?dl=0)
+[View Here](https://drive.google.com/file/d/1lIbGGFHv_Ved3_0bhYW3FSECryjAicli/view?usp=sharing)
 
 # LinkedIn
 
-[Visit Here](https://www.linkedin.com/in/usamaather/)
+[Visit Here](https://www.linkedin.com/in/vaibhav-mathur-59025257/)
 
