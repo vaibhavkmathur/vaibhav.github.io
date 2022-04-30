@@ -1,18 +1,16 @@
 
 ![](/Images/circle.png)
-
 # Education 
 
 **Purdue University, Krannert School of Management** | June 2022
-
 *Master of Business Analytics and Information Management* 
 - Graduated with **Krannert Scholar Award - Top 5% of the Class**
 - **Skills:** SQL, Tableau, Python
 - **Core Competencies:** Data Analytics, Business Management, Marketing Analytics, Brand Management
 - **Director of Planning:** Krannert Graduate Student Association
 - **Pursuing STEM degree with OPT extension upto 3 years**
-
-
+*
+*
 
 
 
@@ -85,23 +83,20 @@ of devising a comparison model to find similar products from the database of a m
  [View Presentation](https://drive.google.com/file/d/1DegyR1LhZ7rgK-RAtDEFwjaBms-dagXA/view?usp=sharing)
 
 ![](/Images/sas.png) 
-**Default PRediction - Loan Default ANalysis** |
-
+**Default Prediction - Loan Default ANalysis** |
 - Developed a Gradient Boosting model using SAS Enterprise Miner to predict loan default, amongst **top 30% of class**
 
 [View Project](https://drive.google.com/file/d/1u2rsy2P_-L617IYNXZ1u-6qs2jmVEGID/view?usp=sharing)
 
 ![](/Images/doge.png) 
 **Dogecoin price trend analysis based on Twitter sentiments** |
-
-
 - Used Twitter data to train model on Google platform and predicted the price cryptocurrency 'Dogecoin'
 
 [View Project](https://drive.google.com/file/d/10AjRakVSgyHvbg0tzqPnoGXDLmybId-h/view?usp=sharing) 
 
 
 ![](/Images/jio.png) 
-**The Jio Game** |
+**The Jio Game**
 
 
 [View Project](https://drive.google.com/file/d/1-ebQ7i-fMrT-CuaDfJ57kXjeaG_TuWSn/view?usp=sharing)
