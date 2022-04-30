@@ -167,5 +167,6 @@ of devising a comparison model to find similar products from the database of a m
 # Contact me
 
 **Phone no.** : +1 765-767-2500
+
 **Email**     : vaibhavkmathur@gmail.com
 
