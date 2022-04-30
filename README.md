@@ -38,12 +38,12 @@
 **Tolaram Group.** | May 2017 - February 2021
 
 *Head of Product & Marketing* ($500Mn CPG Brands – Managed P&L as well as 10 direct & 200 indirect subordinates)  
-•	Achieved highest Brand Equity Index from 7.4 to 7.6 and 98% sales target during COVID by mitigating supply chain risks & ramping up social Initiative by coordinating with PR, media agencies, and production teams
-•	Demand Forecasting – Preempted potential stockouts and improved the mobility of critical supplies like cartons, packaging material, and seasoning during COVID to become the only brand in the category to maintain 100% product availability
-•	Launched an educational mobile app achieving 10,000 monthly active users and onboarded 100,000 Kids for the largest product Fanclub in Nigeria by digitizing the entire value chain of 50 executives and 3,000 schools (bit.ly/brightmindsindomie)
-•	Led a team of brand managers and creative agencies to create and launch ‘new theme campaign’ by producing 2 TVCs in record time, releasing consumer promotion, and envisioning a communication strategy to halt the decline and grow the category by 2.5%
+- Achieved highest Brand Equity Index from 7.4 to 7.6 and 98% sales target during COVID by mitigating supply chain risks & ramping up social Initiative by coordinating with PR, media agencies, and production teams
+-	Demand Forecasting – Preempted potential stockouts and improved the mobility of critical supplies like cartons, packaging material, and seasoning during COVID to become the only brand in the category to maintain 100% product availability
+-	Launched an educational mobile app achieving 10,000 monthly active users and onboarded 100,000 Kids for the largest product Fanclub in Nigeria by digitizing the entire value chain of 50 executives and 3,000 schools (bit.ly/brightmindsindomie)
+-	Led a team of brand managers and creative agencies to create and launch ‘new theme campaign’ by producing 2 TVCs in record time, releasing consumer promotion, and envisioning a communication strategy to halt the decline and grow the category by 2.5%
 
-**Indian Space Research ORganization** | 2012 - 2016
+**Indian Space Research Organization** | 2012 - 2016
 
 ![](/Images/isro.png)
 
