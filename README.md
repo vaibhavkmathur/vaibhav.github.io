@@ -55,7 +55,7 @@ Graduated with **Dean's List Certification - Top 10% of the Class**
 
 
 
-**Indian Space Research Organization** | 2012 - 2016
+**Indian Space Research Organization** | September 2012 - March 2016
 
 ![](/Images/isro.png)
 
