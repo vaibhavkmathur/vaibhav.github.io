@@ -23,9 +23,9 @@
 
 # Work Experience
 
-**Omnibiz Aftrica** |  2020 -  2021
-
 ![](/Images/omnibiz.png)
+
+**Omnibiz Aftrica** | 2020 -  2021
 
 *Product Management Lead*
 
@@ -43,34 +43,14 @@
 •	Launched an educational mobile app achieving 10,000 monthly active users and onboarded 100,000 Kids for the largest product Fanclub in Nigeria by digitizing the entire value chain of 50 executives and 3,000 schools (bit.ly/brightmindsindomie)
 •	Led a team of brand managers and creative agencies to create and launch ‘new theme campaign’ by producing 2 TVCs in record time, releasing consumer promotion, and envisioning a communication strategy to halt the decline and grow the category by 2.5%
 
-*Data Analyst*
+**Indian SPace Research ORganization** | 2012 - 2016
 
-- Cleaned and prepped datasets using **Python & SQL** to create control and test groups for hypothesis testing 
+![](/Images/isro.png)
 
-- Parameterized test results to develop an automated **A/B testing & measurement accelerator** to solve business problems ranging from last mile deliveries to ad spend uplift, projected to **reduce man-efforts by more than 60%** 
+*Scientist*
 
-
-
-
-
-
-
-**Nestlé** |        August 2016 - January 2021
-
-![](/Images/nestle-logo-black-and-white.png)
-
-*Manager, Retail Marketing Analytics*
-
-- Used SQL & Tableau to design BI reporting dashboards to track key business KPIs including numeric coverage, repeat purchase and stock availability, **resulting in 98% target adherence**
- 
-- Led a team of 5 to develop data driven marketing mix and customer segmentation models to plan tactical retail interventions resulting in **~50% improvement in in-store purchases**
-
-
-*Assistant Manager, E-Commerce Strategy*
-
-- Used Google Analytics to shape a performance marketing strategy to accelerate purchase conversion through digital marketing assets, **resulting in 145% increase in ad spend ROI**
-
-- Spearheaded E-Commerce function for Nestlé, **achieved highest growth (~350%)** among all Nestlé markets in zone AOA (Asia, Oceania, Africa) for 2018 & 2019
+- Led a team of technicians to execute high demand space shuttle launch operations by planning Agile workflow for 10+ successful launch campaigns including ‘Mars Orbiter Mission’ to ensure on-time project completion
+- Designed and implemented interface systems hardware and software systems to connect the launchpad with launch control center for the second launchpad of India to ensure on-time readiness of the Indian spaceport
 
 
 # Projects
