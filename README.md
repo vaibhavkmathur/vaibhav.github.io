@@ -2,7 +2,7 @@
 
 ![](/Images/circle.png)
 
-# Education 
+# Education  
 
 **Purdue University, Krannert School of Management** | June 2022
 
